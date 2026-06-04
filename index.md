@@ -11,7 +11,7 @@ I built a robotic arm that moves using 2 joysticks.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="315" height="560" src="https://youtube.com/embed/_BtexUx4O3o?si=f9mA0g9JVUcczDK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://youtube.com/embed/_BtexUx4O3o?si=f9mA0g9JVUcczDK6" title="YouTube Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Schematics 
